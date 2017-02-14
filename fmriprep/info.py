@@ -13,8 +13,8 @@ __license__ = '3-clause BSD'
 __maintainer__ = 'Ross Blair'
 __email__ = 'rosswilsonblair@gmail.com'
 __status__ = 'Prototype'
-__url__ = 'https://github.com/rwblair/mottcorr_comp'
-__packagename__ = 'fmriprep'
+__url__ = 'https://github.com/rwblair/motcorr_comp'
+__packagename__ = 'motcorr_comp'
 __description__ = """"""
 __longdesc__ = """
 """
